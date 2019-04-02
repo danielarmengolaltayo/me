@@ -93,7 +93,7 @@ This system is about managing time and attention (described as the allocation of
     - for quick reference for other processes where I need also the code
     - to keep papers organized in the case that I have more than one paper around at the same time
 2. 🍰 **Divide by blocks** of time
-3. ✍🏻 **Move the list** of tasks from Airtable to paper
+3. 📝 **Move the list** of tasks from Airtable to paper
 4. 📊 **Add est. time per task** in blocks that require extra productivity and check that the sum of all estimations equals the total available time for the block
 5. 📎 **Transfer notes** from previous paper if there is any
 6. 🗑 **Throw the previous paper away** (or recycle it)
