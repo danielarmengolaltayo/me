@@ -4,6 +4,8 @@ This is a personal exercice to find clarity, a conversation with myself. I am us
 
 The conversation will cover different topics organized in separate drafts. At this stage, I want to prioritize quantity over quality. Sorry in advance for the mess.
 
+→ [Manifesto](manifesto.md). The foundations for my story.
+
 → Collection of [systems](systems.md), techniques, tools, skills, rules, strategies, ideas, tricks and hacks **designed to model my own behavior**.
 
 <br><br><br>
