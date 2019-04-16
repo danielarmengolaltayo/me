@@ -104,6 +104,7 @@ This system is about managing time and attention (described as the allocation of
             - responsive version?
     - The same assistant could track the rest of things I am tracking right now, e.g. food intake
     - How can I interact or modify the steps on the fly?
+- tired of too many tools doing what I don't want or I don't need. what I need to figure out first is the reason for the tool to exist. I want a tool that helps me and assists me to create my own tool?
 
 <br><br><br>
 
