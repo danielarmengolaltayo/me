@@ -8,6 +8,8 @@ The conversation will cover different topics organized in separate drafts. At th
 
 → Collection of [systems](systems.md), techniques, tools, skills, rules, strategies, ideas, tricks and hacks **designed to model my own behavior**.
 
+→ Essays around my understanding on particular topics: [Perspective](perspective.md).
+
 <br><br><br>
 
 > “The unexamined life is not worth living.” — Socrates
