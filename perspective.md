@@ -10,4 +10,6 @@ But we have to keep in mind that we can always decide another set of dance moves
 
 **Your reality is built upon the perspective you choose to take**.
 
-Do not let fear speak in your name. Please, do not get stuck in a dance style.
+Don't be afraid, don't let fear speak in your name.
+
+Please, do not get stuck in a dance style.
