@@ -10,7 +10,7 @@ The others.
 
 They act also as avatars for you. Constantly and endlessly performing for you, as vivid representations of what you might be or what you do not want to be. Living simulations of your projected self.
 
-A conversation? Feedback. The better somebody is listening to you, the better is the bouncing back of your emotions. 
+A conversation? Feedback. The better somebody is listening to you, the better is [the bouncing back](https://youtu.be/f0Fi32LbXHA?t=1303) of your emotions. 
 
 A yawn. An unexpected smile. A close look to another face and you will see your shadow moving inside the black of the eyes.
 
