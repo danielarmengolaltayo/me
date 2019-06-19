@@ -1,4 +1,4 @@
-**Everything outside you, act as a mirror to yourself.**
+**Everything outside you acts as a mirror for yourself.**
 
 From the avatar you choose in a videogame to the digital persona you construct in each and every platform. Start with a profile picture. Add a short bio. Maybe some emojis here and there. Then a photo, its caption, the location, tag-tag-tag... don't forget to mention, to comment, to like. 
 

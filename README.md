@@ -10,7 +10,7 @@ The conversation will cover different topics organized in separate drafts. At th
 
 → Essays on random thoughts:
 - Your reality is built upon the [perspective](perspective.md) you choose to take.
-- Everything outside you, act as a [mirror](mirrors.md) to yourself.
+- Everything outside you acts as a [mirror](mirrors.md) for yourself.
 
 <br><br><br>
 
