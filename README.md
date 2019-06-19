@@ -8,7 +8,9 @@ The conversation will cover different topics organized in separate drafts. At th
 
 → Collection of [systems](systems.md), techniques, tools, skills, rules, strategies, ideas, tricks and hacks **designed to model my own behavior**.
 
-→ Essays around my understanding on particular topics: [Perspective](perspective.md), [Mirrors](mirrors.md).
+→ Essays on random thoughts:
+- Your reality is built upon the [perspective](perspective.md) you choose to take.
+- Everything outside you, act as a [mirror](mirrors.md) to yourself.
 
 <br><br><br>
 
