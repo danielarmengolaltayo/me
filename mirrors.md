@@ -24,4 +24,4 @@ That movie last night. The podcast on the train. Those books you will never star
 
 This screen. 
 
-Turn it off and you will see yourself reflected there too.
+Turn it off and [you will see yourself reflected there too](https://www.youtube.com/watch?v=HRrFvapV4ms).
