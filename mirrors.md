@@ -22,6 +22,6 @@ What you eat. What you breathe. What you buy. What you do.
 
 That movie last night. The podcast on the train. Those books you will never start, and those you will never finish. This messy words you are reading right now.
 
-This screen. 
+This screen. Turn it off and you will see yourself reflected there too.
 
-Turn it off and [you will see yourself reflected there too](https://www.youtube.com/watch?v=HRrFvapV4ms).
+[What do you see?](https://www.youtube.com/watch?v=HRrFvapV4ms)
