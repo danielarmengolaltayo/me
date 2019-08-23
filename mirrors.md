@@ -14,7 +14,7 @@ A conversation? Feedback. The better somebody is listening to you, the better is
 
 A yawn. An unexpected smile. A close look to another face and you will see your shadow moving inside the black of the eyes.
 
-The wind blowing in response to your silent inner thoughts. Good weather, good mood. Bad mood, bad weather. The intimacy of the shooting star or the flash of lightning. The warmth of sunlight hugging your naked body when you feel at peace.
+The wind blowing in response to your silent inner thoughts. Good weather, good mood. Bad mood, bad weather. The intimacy of the shooting star or the flash of a lightning. The warmth of sunlight hugging your naked body when you feel at peace.
 
 The animals that talk to you and how you talk to them.
 
