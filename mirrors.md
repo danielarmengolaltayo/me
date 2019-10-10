@@ -14,6 +14,8 @@ A conversation? Feedback. The better somebody is listening to you, the better is
 
 A yawn. An unexpected smile. A close look to another face and you will see your shadow moving inside the black of the eyes.
 
+> "You don’t need me. What you really need is a mirror. Because any stranger is for you simply a mirror in which to reflect yourself." — Kōbō Abe, The Face of Another
+
 The wind blowing in response to your silent inner thoughts. Good weather, good mood. Bad mood, bad weather. The intimacy of the shooting star or the flash of a lightning. The warmth of sunlight hugging your naked body when you feel at peace.
 
 The animals that talk to you and how you talk to them.
@@ -25,3 +27,4 @@ That movie last night. The podcast on the train. Those books you will never star
 This screen. Turn it off and you will see yourself reflected there too.
 
 [What do you see?](https://www.youtube.com/watch?v=HRrFvapV4ms)
+
