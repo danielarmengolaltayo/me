@@ -1,5 +1,9 @@
 **Everything outside you acts as a mirror for yourself.**
 
+Everything you can find outside you, could be used as a mirror where to observe a reflection of yourself
+All you find outside 
+We use all we find outside ourselves to
+
 From the avatar you choose in a videogame to the digital persona you construct in each and every platform. Start with a profile picture. Add a short bio. Maybe some emojis here and there. Then a photo, its caption, the location, tag-tag-tag... don't forget to mention, to comment, to like. 
 
 Follow, refresh, swipe. Swipe, refresh, unfollow. 
@@ -20,11 +24,12 @@ The wind blowing in response to your silent inner thoughts. Good weather, good m
 
 The animals that talk to you and how you talk to them.
 
-What you eat. What you breathe. What you buy. What you do. 
+What you eat. What you breathe. What you buy. What you do. What you click.
 
-That movie last night. The podcast on the train. Those books you will never start, and those you will never finish. This messy words you are reading right now.
+That movie last night. The podcast on the train. Those books you will never start, and those you will never finish. What you have in front of you right now. Not only these words but the medium, the channel through which you got access to them.
 
-This screen. Turn it off and you will see yourself reflected there too.
+> "The internet is a reflection of our society and that mirror is going to be reflecting what we see. If we do not like what we see in that mirror the problem is not to fix the mirror, we have to fix society." — Vint Cerf
+
+You can try. Turn this screen off for a sec, maybe you can see yourself reflected in there too.
 
 [What do you see?](https://www.youtube.com/watch?v=HRrFvapV4ms)
-
