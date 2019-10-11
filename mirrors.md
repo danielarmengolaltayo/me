@@ -1,8 +1,6 @@
-**Everything outside you acts as a mirror for yourself.**
+**Everything outside of you acts as a mirror from which to observe yourself.**
 
-Everything you can find outside you, could be used as a mirror where to observe a reflection of yourself
-All you find outside 
-We use all we find outside ourselves to
+All you perceive as reality can be used to project your image on it. On glass walls, in a puddle of water on a sidewalk or inside of a spoon. Material reality. Tangible but also intangible. Virtual too.
 
 From the avatar you choose in a videogame to the digital persona you construct in each and every platform. Start with a profile picture. Add a short bio. Maybe some emojis here and there. Then a photo, its caption, the location, tag-tag-tag... don't forget to mention, to comment, to like. 
 
@@ -10,9 +8,7 @@ Follow, refresh, swipe. Swipe, refresh, unfollow.
 
 Double check. Save for later. Report. DM. Match.
 
-The others. 
-
-They act also as avatars for you. Constantly and endlessly performing for you, as vivid representations of what you might be or what you do not want to be. Living simulations of your projected self.
+The others. They act also as avatars for you. Constantly and endlessly performing for you, as vivid representations of what you might be or what you do not want to be. Living simulations of your projected self.
 
 A conversation? Feedback. The better somebody is listening to you, the better is [the bouncing back](https://youtu.be/f0Fi32LbXHA?t=1303) of your emotions. 
 
