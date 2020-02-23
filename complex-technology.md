@@ -6,7 +6,7 @@ I agree with the rationale behind the guiding philosophy of Douglas Engelbart in
 
 As humans, we expand our abilities by developing new technologies, and Engelbart envisioned back in 1950 that "computers could be the vehicle for dramatically improving this capability".
 
-Now, 70 years later, computers have become common devices and we are in the process of connecting the entire planet to the same information exchange network <sup>[5]</sup>.
+Now, 70 years later, computers are an integral part of our daily lives and we are in the process of connecting the entire planet to the same information exchange network <sup>[5]</sup>.
 
 <br><br><br>
 
