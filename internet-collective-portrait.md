@@ -4,10 +4,12 @@ We can see on the Internet who we are and even how we get here and paying a litt
 
 Technology and society cannot be understood separately. They both constantly influence each other, co-evolving together as a whole.
 
-As John M. Culkin said when presenting Marshall McLuhan's ideas, "we shape our tools and thereafter our tools shape us" [^1].
+As John M. Culkin said when presenting Marshall McLuhan's ideas, "we shape our tools and thereafter our tools shape us" <sup>[1]</sup>.
 
+<br><br><br>
 
+---
 
-[^1]: "We shape our tools and thereafter our tools shape us."
+[1] "We shape our tools and thereafter our tools shape us."
 Quote by John M. Culkin, presenting the ideas of Marshall McLuhan.
 https://quoteinvestigator.com/2016/06/26/shape/
