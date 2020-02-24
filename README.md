@@ -7,6 +7,8 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
     - The internet is a living [collective portrait](internet-collective-portrait.md) of humanity.
     - We need complex technology to cope with [complexity](complex-technology.md).
     - The internet [is not the same](differences-internet-web.md) as the web.
+- The design of the Web
+    - We browse the web, jumping from page to page [using links](browse-the-web-using-links.md) as portals.
     - *(ongoing)*
 
 → General thoughts:
