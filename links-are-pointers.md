@@ -6,9 +6,9 @@ We use the word link as a shorter version of "hyperlink". The "hyperlink" term w
 
 The concepts of hypertext and hyperlink inspired many initiatives, and some of them incorporated the terms into their projects, including the World Wide Web. But here comes the important part.
 
-How the web is using the term "hyperlink" is not how it was initially defined. The Web incorporated the link and its apparent meaning, but not the functionality that gave birth to the name of the term itself, world-wide-spreading a misleading concept. **Links on the Web behave as pointers, one-way jumps, not real connectors** <sup>[3]</sup>.
+How the web is using the term "hyperlink" is not how it was initially defined. The Web incorporated the link and its apparent meaning, but not the functionality that gave birth to the name of the term itself, world-wide-spreading a misleading concept. **Links on the Web behave as pointers, one-way jumps, not real connectors** <sup>[3][4]</sup>.
 
-You can put a link on your page that points to my page and people visiting your page, because of that link, are provided with an opportunity <sup>[4]</sup> of visiting my page too. But people visiting my page, can not reach yours from mine if I don't put a link on my page pointing at your page.
+You can put a link on your page that points to my page and people visiting your page, because of that link, are provided with an opportunity <sup>[5]</sup> of visiting my page too. But people visiting my page, can not reach yours from mine if I don't put a link on my page pointing at your page.
 
 <br><br><br>
 
@@ -20,4 +20,6 @@ You can put a link on your page that points to my page and people visiting your 
 
 [3] "These connections are completely different from the jump links of the World Wide Web". Ted Nelson talking about Xanadu and its features, a project he started with the aim to formalize concepts like the "hyperlink", among many others. https://www.youtube.com/watch?v=1gPM3GqjMR4 (1:49)
 
-[4] "Online, the most important form of attribution is a hyperlink pointing back to the website of the creator of the work. This sends people who come across the work back to the original source. The number one rule of the Internet: People are lazy. If you don't include a link, no one can click it. Attribution without a link online borders on useless: 99.9 percent of people are not going to bother Googling someone's name." From the book "Show your work", by Austin Kleon.
+[4] "Another interesting moment happened around 91ish or so when Tim Berners-Lee came out with the idea for HTML on the web and all this and what was striking about this is that the first time I saw it and anybody I knew saw they said, "wait a second, **this is weird because it doesn't have the backlinks, it's like one directional, you can link to something but it doesn't know it was linked to**". And everybody knew that **the whole point of hypermedia was the context**, because the context is where meaning comes from, without context it's just bits, right?". Jaron Lanier's tribute to Ted Nelson at the "Intertwingled" conference. https://www.youtube.com/watch?v=5i6LXdj_Z6s (14:50)
+
+[5] "Online, the most important form of attribution is a hyperlink pointing back to the website of the creator of the work. This sends people who come across the work back to the original source. The number one rule of the Internet: People are lazy. If you don't include a link, no one can click it. Attribution without a link online borders on useless: 99.9 percent of people are not going to bother Googling someone's name." From the book "Show your work", by Austin Kleon.
