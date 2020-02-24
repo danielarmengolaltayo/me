@@ -6,7 +6,7 @@ We use the word link as a shorter version of "hyperlink". The "hyperlink" term w
 
 The concepts of hypertext and hyperlink inspired many initiatives, and some of them incorporated the terms into their projects, including the World Wide Web. But here comes the important part.
 
-How the web is using the term "hyperlink" is not how it was initially defined. The Web incorporated the link and its apparent meaning, but not the functionality that gave birth to the name of the term itself, widespreading a misleading concept. **Links on the Web behave as pointers, one-way jumps, not real connectors** <sup>[3]</sup>.
+How the web is using the term "hyperlink" is not how it was initially defined. The Web incorporated the link and its apparent meaning, but not the functionality that gave birth to the name of the term itself, world-wide-spreading a misleading concept. **Links on the Web behave as pointers, one-way jumps, not real connectors** <sup>[3]</sup>.
 
 You can put a link on your page that points to my page and people visiting your page, because of that link, are provided with an opportunity <sup>[4]</sup> of visiting my page too. But people visiting my page, can not reach yours from mine if I don't put a link on my page pointing at your page.
 
