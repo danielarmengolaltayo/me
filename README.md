@@ -3,12 +3,13 @@
 This is a personal exercise to find clarity, a conversation with myself <sup>[1]</sup>. I am using this medium because it is mutable and at the same time practical to me, and because it is open, exposing myself to ideas and thoughts from others. 
 
 → Personal statement and commitment:
-- Introduction and context
+- Part zero. Introduction and context
     - The internet is a living [collective portrait](internet-collective-portrait.md) of humanity.
     - We need complex technology to cope with [complexity](complex-technology.md).
     - The internet [is not the same](differences-internet-web.md) as the web.
-- The design of the Web
+- Part One. The design of the Web
     - We browse the web, jumping from page to page [using links](browse-the-web-using-links.md) as portals.
+    - [Links are pointers](links-are-pointers.md), not connectors. Links are unidirectional by design.
     - *(ongoing)*
 
 → General thoughts:
