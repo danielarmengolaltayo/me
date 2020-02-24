@@ -12,9 +12,9 @@ It's very common to use the terms of the Internet and the Web as synonyms withou
 
 ---
 
-[1] "Not to be confused with the World Wide Web." Wikipedia entry for the Internet. https://en.wikipedia.org/wiki/Internet
+[1] "Not to be confused with the World Wide Web." Message on top of the Wikipedia entry for the Internet. https://en.wikipedia.org/wiki/Internet
 
-[2] "Not to be confused with the Internet." Wikipedia entry for the Web. https://en.wikipedia.org/wiki/World_Wide_Web
+[2] "Not to be confused with the Internet." Message on top of the Wikipedia entry for the Web. https://en.wikipedia.org/wiki/World_Wide_Web
 
 [3] "Although the Internet and the Web are often used as synonyms they are not the same thing. The Internet is the infrastructure of the network while the web sits on top of this and is essentially a way to access information via the Internet." https://www.youtube.com/watch?v=42aWAAqoUfI (1:14)
 
