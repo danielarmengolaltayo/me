@@ -6,6 +6,7 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
 - Introduction and context
     - The internet is a living [collective portrait](internet-collective-portrait.md) of humanity.
     - We need complex technology to cope with [complexity](complex-technology.md).
+    - The internet [is not the same](differences-internet-web.md) as the web.
     - *(ongoing)*
 
 → General thoughts:
