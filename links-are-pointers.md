@@ -2,7 +2,7 @@
 
 It's easy to describe the Web as pieces of information connected to other pieces of information through links, but we have to be careful understanding well what "links" really are in this context because it can change completely our perception of the Web.
 
-We use the word link as a shorter version of "hyperlink". The "hyperlink" term was coined in 1965 by Ted Nelson to describe the mechanism used to connect hypertext documents <sup>[1][2]</sup>. The behavior for the hyperlink in the moment of its conception was to connect pieces of information in such a way that the user could explore both ends of the link equally.
+We use the word link as a shorter version of "hyperlink". The "hyperlink" term was coined around 1965 by Ted Nelson to describe the mechanism used to connect hypertext documents <sup>[1][2]</sup>. The behavior for the hyperlink in the moment of its conception was to connect pieces of information in such a way that the user could explore both ends of the link equally.
 
 The concepts of hypertext and hyperlink inspired many initiatives, and some of them incorporated the terms into their projects, including the World Wide Web. But here comes the important part.
 
