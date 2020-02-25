@@ -10,6 +10,7 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
 - Part One. The design of the Web
     - We browse the web, jumping from page to page [using links](browse-the-web-using-links.md) as portals.
     - [Links are pointers](links-are-pointers.md), not connectors. Links are unidirectional by design.
+    - True connections on the web require [extra effort](true-connections-web.md).
     - *(ongoing)*
 
 → General thoughts:
