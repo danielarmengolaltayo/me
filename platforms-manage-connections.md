@@ -2,7 +2,7 @@
 
 Suppose we both have a personal webpage and we want it to show that we are friends. In my page I make reference to yours and you do the same towards mine. We want to establish a connection that explains publicly our friendship relationship.
 
-To keep this connection active and up to date on our respective sites, some degree of maintenance is mandatory. If we don't want to do it ourselves, a platform could take over. From social networks to search engines, online marketplaces and everything in between.
+To keep this connection active and up to date on our respective sites, some degree of maintenance is necessary. If we don't want to do it ourselves, a platform could take over. From social networks to search engines, online marketplaces and everything in between.
 
 *I need this item, maybe I'll buy it later. Store it in my wishlist. Share it with my friends. Send a DM. Message read but not replied. Block this user. Follow this other one. Like this photo. Tag this photo. I like cats too, join this group. Search for it. Show me the newsfeed of this account. Watch this video. Write a comment. Upvote this other comment. Click that ad. Maybe I need this item too.*
 
