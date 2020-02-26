@@ -8,7 +8,7 @@ To keep this connection active and up to date on our respective sites, some degr
 
 All types of platforms for all types of connections. 
 
-These platforms offer the service of maintaining your connections, most of the time for free <sup>[1]</sup>, offering at the same time the opportunity to create new ones. 
+What these platforms offer, most of the time for free <sup>[1]</sup>, is maintenance for your connections and the opportunity to create new ones when using their service.
 
 Apparently, the deal seems all advantages for the user and it is undeniable that many of these platforms really contribute to improve our daily lives. But we must understand and be aware that **by delegating the responsibility in the management of our connections we are losing power over them**. At the individual level, the power granted is almost imperceptible, but at the scale that these companies operate, the accumulated power is immense <sup>[2][3]</sup>.
 
