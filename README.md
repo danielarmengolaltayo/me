@@ -17,9 +17,9 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
     - *(ongoing)*
 
 → General thoughts:
-- Influence the course of your life by [designing your own behavior](design-life.md).
 - Our [perception of reality](perception-of-reality.md) is just a story.
 - Your reality is built upon the [perspective](perspective.md) you choose to take.
+- Influence the course of your life by [designing your own behavior](design-life.md).
 - Everything outside of you acts as a [mirror](mirrors.md) from which to observe yourself.
 
 → Thinking by doing:
