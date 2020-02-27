@@ -2,11 +2,13 @@
 
 An established strategy in this industry consists in
 
-1) attracting people to the benefits of the service
+1) attracting people with the benefits of the service
 2) transforming people to users by convincing them to allow the platform manage their connections
-3) seduce users to create new connections inside the platform until the point that the mere idea of changing to another platform is inconceivable because of the overwhelming implications and the fear of losing all the connections made, turning users into prisoners <sup>[1]</sup>.
+3) seduce users to create new connections inside the platform until the point that the mere idea of changing to another platform is inconceivable, because of the overwhelming implications and the fear of losing all the connections made, what translantes into turning users into prisoners <sup>[1]</sup>.
 
-The situation is similar to the following and not exclusive to tech platforms <sup>[2]</sup>. You are invited to join a community, they give you a place to stay and all the tools and resources you need to decorate and fill your new house so as to make yourself comfortable. They also throw parties and organize activities to create bonds within the community. But the moment you want to move to another community and you ask for the way out, the responses are evasive or the procedure is extremely inconvenient. Moving all the things you built here by yourself is exhausting, so it's easier to stay or leave everything behind.
+The situation is similar to the following and not exclusive to tech platforms <sup>[2]</sup>. 
+
+You are invited to join a community, they give you a place to stay and all the tools and resources you need to decorate and fill your new house so as to make yourself comfortable. They also throw parties and organize a wide variety of activities to create bonds within the community. But the moment you want to move to another community and you ask for the way out, the responses are evasive or the procedure is extremely inconvenient. Moving all the things you built here by yourself is exhausting, so it's easier to stay or leave everything behind.
 
 Independently of the particularities in the strategy used by each platform, what all of them need at the end in order to survive is that you use their service. If you don't know them yet, they have to introduce themselves first. If you already have a relationship with them, they will encourage you to keep using them. In both cases, they need your attention to start the pertinent discourse.
 
