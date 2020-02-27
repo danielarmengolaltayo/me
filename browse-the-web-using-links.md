@@ -10,4 +10,4 @@ On a macro scale, looking at human evolution, the Web and the technologies that 
 
 ---
 
-[1] "I think we are at the beginning of the beginning here. I think we are starting to really understand how computing can work in our lives and in civilization, we dive to it before with nothing but naivety and optimism and we are growing up, we are toddlers." Jaron Lanier on ideas for the future, interviewed at The Vergecast. https://www.theverge.com/2019/4/9/18302076/data-monetization-control-manipulation-economy-jaron-laniers-virtual-reality-vr-vergecast (3:14)
+[1] "I think we are at the beginning of the beginning here. I think we are starting to really understand how computing can work in our lives and in civilization, we dive to it before with nothing but naivety and optimism and we are growing up, we are toddlers." Jaron Lanier on ideas for the future, interviewed at The Vergecast. https://www.theverge.com/2019/4/9/18302076/data-monetization-control-manipulation-economy-jaron-laniers-virtual-reality-vr-vergecast (03:14)

@@ -16,7 +16,7 @@ It's very common to use the terms of the Internet and the Web as synonyms withou
 
 [2] "Not to be confused with the Internet." Message on top of the Wikipedia entry for the Web. https://en.wikipedia.org/wiki/World_Wide_Web
 
-[3] "Although the Internet and the Web are often used as synonyms they are not the same thing. The Internet is the infrastructure of the network while the web sits on top of this and is essentially a way to access information via the Internet." https://www.youtube.com/watch?v=42aWAAqoUfI (1:14)
+[3] "Although the Internet and the Web are often used as synonyms they are not the same thing. The Internet is the infrastructure of the network while the web sits on top of this and is essentially a way to access information via the Internet." https://www.youtube.com/watch?v=42aWAAqoUfI (01:14)
 
 [4] More on the physical infrastructure of the Internet.
 https://www.ted.com/talks/andrew_blum_discover_the_physical_side_of_the_internet

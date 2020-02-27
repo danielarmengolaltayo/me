@@ -18,7 +18,7 @@ You can put a link on your page that points to my page and people visiting your 
 
 [2] History of the hyperlink according to Ted Nelson, creator of the term. https://www.youtube.com/watch?v=_9PmIkAYhI0
 
-[3] "These connections are completely different from the jump links of the World Wide Web". Ted Nelson talking about Xanadu and its features, a project he started with the aim to formalize concepts like the "hyperlink", among many others. https://www.youtube.com/watch?v=1gPM3GqjMR4 (1:49)
+[3] "These connections are completely different from the jump links of the World Wide Web". Ted Nelson talking about Xanadu and its features, a project he started with the aim to formalize concepts like the "hyperlink", among many others. https://www.youtube.com/watch?v=1gPM3GqjMR4 (01:49)
 
 [4] "Another interesting moment happened around 91ish or so when Tim Berners-Lee came out with the idea for HTML on the web and all this and what was striking about this is that the first time I saw it and anybody I knew saw they said, "wait a second, **this is weird because it doesn't have the backlinks, it's like one directional, you can link to something but it doesn't know it was linked to**". And everybody knew that **the whole point of hypermedia was the context**, because the context is where meaning comes from, without context it's just bits, right?". Jaron Lanier's tribute to Ted Nelson at the "Intertwingled" conference. https://www.youtube.com/watch?v=5i6LXdj_Z6s (14:50)
 
