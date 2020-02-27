@@ -13,6 +13,7 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
     - True connections on the web require [extra effort](true-connections-web.md).
 - **Consequences**
     - [Platforms manage connections for you](platforms-manage-connections.md). Some of these platforms rule the world today.
+    - [Platforms need your attention](platforms-need-attention.md) because they want you to create more connections to manage.
     - *(ongoing)*
 
 → General thoughts:
