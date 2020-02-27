@@ -8,7 +8,7 @@ You are invited to join a community, they give you a place to stay and all the t
 
 Independently of the particularities in the strategy used by each platform, what all of them need at the end in order to survive is that you use their service. If you don't know them yet, they have to introduce themselves first. If you already have a relationship with them, they will encourage you to keep using them. In both cases, they need your attention to start the pertinent discourse.
 
-This is why we can say that we are living in an economy based on attention <sup>[3][4]</sup>.
+This is why we can say that we are living in an attention-based economy <sup>[3][4]</sup>.
 
 <br><br><br>
 
