@@ -14,6 +14,8 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
 - **Consequences**
     - [Platforms manage connections for you](platforms-manage-connections.md). Some of these platforms rule the world today.
     - [Platforms need your attention](platforms-need-attention.md) because they want you to create more connections to manage.
+- **Conclusion**
+    - The Web established the rules for a [game of inequality](game-of-inequality.md) that platforms learned to master.
     - *(ongoing)*
 
 → General thoughts:
