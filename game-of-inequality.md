@@ -6,7 +6,7 @@ It is important to understand the implications of being a big player in the ecos
 
 I want you to realize that we are building, regardless of the size or the intention, on top of a a system that has been designed in a way that limits and conditions our online experience.
 
-Partircularly, a seemingly subtle design decision that created inequality of power under the idea of "linking", misinterpreting or underestimating the original ideas from the hyperlink concept [1], moving us away from the opportunity to explore human connection in ways we can not fully understand yet.
+Partircularly, a seemingly subtle design decision that created inequality of power under the idea of "linking", misinterpreting or underestimating the original ideas from the hyperlink concept <sup>[1]</sup>, moving us away from the opportunity to explore human connection in ways we can not fully understand yet.
 
 <br><br><br>
 
