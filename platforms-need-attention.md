@@ -1,6 +1,6 @@
 ## Platforms need your attention because they want you to create more connections to manage.
 
-An established strategy in this industry consists in (1) attract people by promoting the advantages and the benefits of the service (2) transform people into users by convincing them to allow the platform to manage their connections (3) seduce users to create as much connections inside the platform as possible until the point that the mere idea of changing to another platform is inconceivable, because the work that implies exporting all the connections is overwhelming or simply because there is fear of losing the connections, meaning, turn users into prisoners by kidnapping their connections <sup>[1]</sup>.
+An established strategy in this industry consists in (1) attract people by promoting the advantages and the benefits of the service (2) transform people into users by convincing them to allow the platform to manage their connections (3) seduce users to create as much connections inside the platform as possible until the point that the mere idea of changing to another platform is inconceivable, because the work that implies exporting all the connections is overwhelming or simply because there is fear of losing them, meaning, turn users into prisoners by kidnapping their connections <sup>[1]</sup>.
 
 The situation is similar to the following and not exclusive to tech platforms <sup>[2]</sup>. 
 
