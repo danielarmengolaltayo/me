@@ -1,6 +1,6 @@
 ## Unidirectionality of links is a major flaw in the design of the web.
 
-As cybernetics would say, it is time to steer the ship <sup>[1][2]</sup>, because "if you do not change direction, you may end up where you are heading" <sup>[3]</sup>. It is time to iterate <sup>[4]</sup> the Web, and therefore, our relationship with it.
+As cybernetics would say, it is time to steer the ship <sup>[1][2]</sup>, because "if you do not change direction, you may end up where you are heading" <sup>[3]</sup>. It is time to iterate the Web <sup>[4]</sup>, and therefore, our relationship with it.
 
 The very inventor of the Web, Tim Berners-Lee, thinks the same <sup>[5]</sup>. His proposal emphasizes and focuses on the importance of updating the link as we know it now <sup>[6]</sup>. Seems that maybe it is time to truly interconnect all the pieces of information that compose the Web <sup>[7]</sup>.
 
