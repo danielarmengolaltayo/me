@@ -16,6 +16,7 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
     - [Platforms need your attention](platforms-need-attention.md) because they want you to create more connections to manage.
 - **Conclusion**
     - The Web established the rules for a [game of inequality](game-of-inequality.md) that platforms learned to master.
+    - Unidirectionality of links is [a major flaw](unidirectionality-of-links.md) in the design of the web.
     - *(ongoing)*
 
 → General thoughts:
