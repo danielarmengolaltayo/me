@@ -10,9 +10,9 @@ All types of platforms for all types of connections.
 
 What these platforms offer, most of the time for free <sup>[1]</sup>, is maintenance for your connections and the opportunity to create new ones when using their service.
 
-Apparently, the deal seems all advantages for the user and it is undeniable that many of these platforms really contribute to improve our daily lives. But we must understand and be aware that **by delegating the responsibility in the management of our connections we are losing power over them**. At the individual level, the power granted is almost imperceptible, but at the scale that these companies operate, the accumulated power is immense <sup>[2]</sup>.
+Apparently, the deal seems all advantages for the user and it is undeniable that many of these platforms really contribute to improve our daily lives. But we must understand and be aware that **by delegating the responsibility in the management of our connections we are losing control over them**. From the individual perspective, the control granted is almost imperceptible, but at the scale that these companies operate, the accumulated control is easily translated into an immense source of power <sup>[2]</sup>.
 
-More users means potential for more connections. To more connections, more power. The more power, the more capability to impact society, for better or for worse.
+More users means potential for more connections. To more connections, more power. The more power, the more capability to influence society <sup>[3]</sup>, for better or for worse.
 
 <br><br><br>
 
@@ -21,3 +21,5 @@ More users means potential for more connections. To more connections, more power
 [1] "If you are not paying for it, you’re not the customer; you’re the product being sold." Andrew Lewis (aka blue_beetle) https://quoteinvestigator.com/2017/07/16/product/
 
 [2] "By the end of the 2010s, five American technology companies – Apple, Microsoft, Amazon, Alphabet (holding company for Google), and Facebook – were, besides Saudi Aramco, the most valuable public companies globally." https://en.wikipedia.org/wiki/Big_Tech
+
+[3] "Power is the ability to influence the behavior of other people." https://en.wikipedia.org/wiki/Interpersonal_relationship#Power_and_dominance
