@@ -3,6 +3,8 @@
 This is a personal exercise to find clarity, a conversation with myself <sup>[1]</sup>. I am using this medium because it is mutable and at the same time practical to me, and because it is open, exposing myself to ideas and thoughts from others. 
 
 → Personal statement and commitment:
+- **Preface**
+    - [Why I wrote this text](preface-link.md), how to read it and why you might be interested in exploring its content.
 - **Introduction**
     - The internet is a living [collective portrait](internet-collective-portrait.md) of humanity.
     - We need complex technology to cope with [complexity](complex-technology.md).
