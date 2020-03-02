@@ -16,6 +16,6 @@ Enjoy the reading.
 
 ---
 
-[1] "It is (behavior) the computed response of the system or organism to various stimuli or inputs, whether internal or external, conscious or subconscious, overt or covert, and voluntary or involuntary." https://en.wikipedia.org/wiki/Behavior
+[1] "(behavior) is the computed response of the system or organism to various stimuli or inputs, whether internal or external, conscious or subconscious, overt or covert, and voluntary or involuntary." https://en.wikipedia.org/wiki/Behavior
 
 [2] "Communication is the act of conveying meanings from one entity or group to another through the use of mutually understood signs, symbols, and semiotic rules." https://en.wikipedia.org/wiki/Communication
