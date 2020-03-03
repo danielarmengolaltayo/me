@@ -10,7 +10,7 @@ This does not exempt us from the responsibility of our actions. There will alway
 
 The Web has matured. Its users also did it and the new generations have grown up with the Web as an integral part of their reality. We invented new technologies, improved old ones and have systems and tools at our disposal that we didn't have before.
 
-It is time to review the past, what happened <sup>[8]</sup> and what did not <sup>[9]</sup>, learn from all the accumulated experience and outline a plan that allows us to act differently if we really want to overcome the urgencies of the present while working collectively for a long-lasting positive impact for our society and for the rest of the ecosystem.
+It is time to review the past, what happened <sup>[8]</sup> and what did not <sup>[9]</sup>, learn from all the accumulated experience and outline a plan <sup>[10]</sup> that allows us to act differently <sup>[11]</sup> if we really want to overcome the urgencies of the present while working collectively for a long-lasting positive impact for our society and for the rest of the ecosystem.
 
 <br><br><br>
 
@@ -33,3 +33,7 @@ It is time to review the past, what happened <sup>[8]</sup> and what did not <su
 [8] "First we need to understand how we got here by challenging the methodologies and narratives that are augmenting the individualism of our modern society of the spectacle and feeding the toxicity of the digital economy with user-centered designs for selfish desires and other '*move fast and break things*' manifestations as the lean startups or hackathons." The Everything manifesto https://www.iam-internet.com/everything
 
 [9] "The term 'hypertext' (which gave birth to the term 'hyperlink') was originally coined by the pre-internet pioneer Ted Nelson in 1963. Nelson's vision for hypertext significantly differed from its eventual interpretation in that he proposed two-way links between information, rather than the now ubiquitous one-way web links later outlined by Tim Berners-Lee. Nelson saw Berners-Lee's work as a gross over-simplification of his original vision resulting in '*ever-breaking links, links going outward only, quotes you can't follow to their origins, no version management, no rights management*'." Ted Hunt on "The history of the hyperlink". http://www.ted-hunt.com/HYPERLINKS/index.html
+
+[10] "If a man does not know to what port he is steering, no wind is favourable to him." Seneca
+
+[11] "Insanity is doing the same thing over and over again, but expecting different results." Albert Einstein
