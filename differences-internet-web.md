@@ -1,4 +1,4 @@
-## The internet is not the same as the web.
+## The Internet is not the same as the Web.
 
 It's very common to use the terms of the Internet and the Web as synonyms without caring too much about the differences or the exact meaning. Depending on the context it's not a big deal, but because with this text I want you to pay attention particularly to one of them, the Web, I am going to go over the main differences really fast to be sure we are in the same page before we explore the topic further <sup>[1][2]</sup>.
 

@@ -1,4 +1,4 @@
-## Unidirectionality of links is a major flaw in the design of the web.
+## Unidirectionality of links is a major flaw in the design of the Web.
 
 As cybernetics would say, it is time to steer the ship <sup>[1][2]</sup>, because "if you do not change direction, you may end up where you are heading" <sup>[3]</sup>. It is time to iterate the Web <sup>[4]</sup>, and therefore, our relationship with it.
 

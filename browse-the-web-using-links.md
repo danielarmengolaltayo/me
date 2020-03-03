@@ -1,4 +1,4 @@
-## We browse the web, jumping from page to page using links as portals.
+## We browse the Web, jumping from page to page using links as portals.
 
 All the pieces of information scattered across the Web are interconnected through links. From static web pages with links in the form of blue underlined words that change the cursor of your mouse to a tiny hand when you roll over them, into dynamic pages with links of all imaginable forms and flavors.
 
