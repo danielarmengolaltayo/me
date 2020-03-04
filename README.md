@@ -21,6 +21,7 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
     - Unidirectionality of links is [a major flaw](unidirectionality-of-links.md) in the design of the Web.
 - **My response**
     - I am here to participate in a collective effort to [upgrade the Web](upgrade-the-web.md).
+    - How to [get in touch and follow](contact-and-follow.md) the progress of the project.
 
 → General thoughts:
 - Our [perception of reality](perception-of-reality.md) is just a story.
