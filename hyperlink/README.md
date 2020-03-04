@@ -1,6 +1,6 @@
 # The Hyperlink Delusion
 
-*This text is organized in capsules. You can get a complete overview in less than a minute by just reading the titles of each capsule. External links and footnotes are complementary and not required to understand the content. From there, explore as you please. Enjoy the reading.*
+*This text is divided into small capsules for easy consumption. You can get a complete overview of the content in less than a minute by just reading the outline below. External links and footnotes are complementary and not required to understand the content. From there, explore as you please. Enjoy the reading.*
 
 **13 min read in total** <sup>[1]</sup>
 
