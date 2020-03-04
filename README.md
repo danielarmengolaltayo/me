@@ -3,7 +3,7 @@
 This is a personal exercise to find clarity, a conversation with myself <sup>[1]</sup>. I am using this medium because it is mutable and at the same time practical to me, and because it is open, exposing myself to ideas and thoughts from others. 
 
 → Personal statement and commitment:
-- [The Hyperlink Delusion](hyperlink/the-hyperlink-delusion.md)
+- [The Hyperlink Delusion](hyperlink)
 
 → General thoughts:
 - Our [perception of reality](perception-of-reality.md) is just a story.
