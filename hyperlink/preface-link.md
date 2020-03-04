@@ -1,4 +1,4 @@
-## Why I wrote this text, how to read it and why you might be interested in exploring its content.
+## Why I wrote this text and why you might be interested in reading it.
 
 Hello, my name is Daniel and this is my attempt to explain what I decided to focus my attention on and why I think it is important that we do something about it. It is my way to state my commitment, part of a collective effort to improve how we relate to each other, as a subset of how we relate to life and the environment.
 
