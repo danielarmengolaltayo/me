@@ -10,6 +10,8 @@ I am going to share my particular approach, perspective and progress in future t
 
 Thank you for joining me today :-)
 
+<br><br><br>
+
 ---
 
 [1] "A fundamental question in the early days of hypertext was whether links should be one-way or bidirectional. **Theorists were adamant that links should work both ways.** [...] A survey of some of the abstracts from the '89 conference reminds me of the many proposals on how to make bidirectional links work. [...] Tim Berners-Lee (who didn't present at Hypertext '89) launched the HTML/HTTP combo we know as the World-Wide Web one year after that conference. His aspirations were for a global, open web and so he took the practical approach of unidirectional links. His decision was strongly criticized by visionaries like Ted Nelson but today you're reading this on the web while Xanadu remains a dream." https://www.ofthat.com/2011/03/bidirectional-links-theyre-here.html

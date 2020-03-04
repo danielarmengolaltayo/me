@@ -8,6 +8,8 @@ I hate spam as much as everybody does. I will use the newsletter only to reach y
 
 You can subscribe by clicking here.
 
+<br><br><br>
+
 ---
 
 [1] At some point, I'll write more about how I would like to encourage this kind of interaction. For now, I leave this reference to give you an idea of the tone I have in mind. https://www.kalzumeus.com/standing-invitation/
