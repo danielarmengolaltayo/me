@@ -2,6 +2,8 @@
 
 *This text is organized in capsules. You can get a complete overview in less than a minute by just reading the titles of each capsule. External links and footnotes are complementary and not required to understand the content. From there, explore as you please. Enjoy the reading.*
 
+**13 min read in total** <sup>[1]</sup>
+
 - **Preface**
     - [Why I wrote this text](preface-link.md) and why you might be interested in reading it.
 - **Introduction**
@@ -21,3 +23,9 @@
 - **My response**
     - I am here to participate in a collective effort to [upgrade the Web](upgrade-the-web.md).
     - How to [get in touch and follow](contact-and-follow.md) the progress of the project.
+
+<br><br><br>
+
+---
+
+[1] Around 3000 words without counting footnotes, at 238 WPM, the average silent reading rate for adults in English for non-fiction. https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate
