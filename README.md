@@ -19,7 +19,8 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
 - **Conclusion**
     - The Web established the rules for a [game of inequality](game-of-inequality.md) that platforms learned to master.
     - Unidirectionality of links is [a major flaw](unidirectionality-of-links.md) in the design of the Web.
-    - *(ongoing)*
+- **My response**
+    - I am here to participate in a collective effort to [upgrade the Web](upgrade-the-web.md).
 
 → General thoughts:
 - Our [perception of reality](perception-of-reality.md) is just a story.
