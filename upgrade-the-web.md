@@ -6,17 +6,7 @@ Unidirectionality of links is one feature that deserves our attention if we want
 
 If we retrieve the relationship of mutual influence between technology and society described at the beginning of the text <sup>[4]</sup>, it seems that we are in front of a chicken-and-egg dilemma if we have to decide from which side to approach the situation. Both society <sup>[5]</sup> and tools <sup>[6]</sup> are valid perspectives from which to build a strategy, as well as many more. 
 
-I am going to share my particular approach, perspective and progress in future texts.
-
-I hope your participation will influence me along the way.
-
-*In this stage, I don't have plans to use any social network as a communication channel, so if you want to contact me or follow the progress of the project, email will be the way. Please, do not hesitate to write me at **daniel [at] armengol-altayo (dot) com** for any idea or comment you have, I'll be delighted to write you back <sup>[7]</sup>.*
-
-*For sharing the progress, I will use a mailing list. The number of subscribers will give me a general idea (although I know that inaccurate) of the interest around the proposal.*
-
-*I hate spam as much as everybody does. I will use the newsletter only to reach you occasionally with relevant updates. I wouldn't be here, talking about what I'm talking about if I didn't have absolute respect for how we manage personal information. Any significant change in the behavior of the newsletter will be properly notified and you will always have an easy way to opt-out.*
-
-*You can subscribe by clicking here.*
+I am going to share my particular approach, perspective and progress in future texts, and I hope your participation will influence me along the way.
 
 Thank you for joining me today :-)
 
@@ -33,5 +23,3 @@ Thank you for joining me today :-)
 [5] "The internet is a reflection of our society and that mirror is going to be reflecting what we see. If we do not like what we see in that mirror the problem is not to fix the mirror, we have to fix society." Vint Cerf, one of "the fathers of the Internet".
 
 [6] "Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them." Steve Jobs.
-
-[7] At some point, I'll write more about how I would like to encourage this kind of interaction. For now, I leave this reference to give you an idea of the tone I have in mind. https://www.kalzumeus.com/standing-invitation/
