@@ -8,10 +8,6 @@ Since we inhabit the whole planet, it is important to approach communication at 
 
 I want to inspire others in the same way that others inspire me. I have chosen my playground and I am eager to find more people to play with. This writing is my introduction, but also an open call to join in. Maybe you are already playing, maybe you are also willing to participate in the game, in any case, see you there ;-)
 
-*The text is organized in capsules. You can get a complete overview in less than a minute by just reading the titles of each capsule. External links and footnotes are complementary and not required to understand the content. From there, explore as you please.*
-
-Enjoy the reading.
-
 <br><br><br>
 
 ---
