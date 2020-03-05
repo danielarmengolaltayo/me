@@ -28,6 +28,6 @@
 
 ---
 
-[1] Around 3000 words without counting footnotes, at 238 WPM, the average silent reading rate for adults in English for non-fiction. https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate
+[1] Around 3000 words without counting footnotes, at 238 WPM, the average silent reading rate for adults in English for non-fiction. If you are a slow reader like me, expect a little more. https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate
 
 [2] Right now, this text is living in a context that allows change. I am taking advantage of it, adding more references post scriptum, making examples more clear, correcting grammar mistakes or even leaving notes to myself while maintaining a readable and comprehensible narrative. Please, if you find a typo, know about other perspectives or have a better way to illustrate an idea, contribute via GitHub or send me an email (contact details inside the last capsule). Thank you!
