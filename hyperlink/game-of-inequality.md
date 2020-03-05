@@ -4,7 +4,7 @@ Browsing the Web, our journey looks more like a guided tour than a solo trip. Th
 
 It is important to understand the implications of being a big player in the ecosystem of the Web, the responsability this platforms have at managing the connections between pieces of information and the power that comes with them, but I don't want to focus your attention and my energy on this now.
 
-I want you to realize that we are building, regardless of the size or the intention, on top of a a system that has been designed in a way that limits and conditions our online experience. A system that treats us, by default, as tourists instead of travelers.
+I want you to realize that we are building, regardless of the size or the intention, on top of a a system that treats us, by default, as tourists instead of travelers, a system that has been designed in a way that limits and conditions our online experience.
 
 Partircularly, a seemingly subtle design decision that created inequality of power under the idea of "linking", misinterpreting or underestimating the original ideas from the hyperlink concept <sup>[1]</sup>, moving us away from the opportunity to explore human connection in ways we can not fully understand yet.
 
