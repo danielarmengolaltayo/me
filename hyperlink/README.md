@@ -5,7 +5,7 @@
 *This text is presented in a particular format. It is divided into small capsules to allow a different approach for both the writer <sup>[2]</sup> and the reader. You can get a complete overview of the content in less than a minute by just reading the outline below. External links and footnotes are complementary, not required to understand the content. Each capsule is written to work as a self-contained piece, which means you can read it independently although a sequential narrative is suggested. From there, explore as you please. Enjoy the reading.*
 
 - **Preface**
-    - [Why I wrote this text](preface-link.md) and why you might be interested in reading it.
+    - [Why I wrote this text](preface-link.md) and why you may be interested in reading it.
 - **Introduction**
     - The Internet is a living [collective portrait](internet-collective-portrait.md) of humanity.
     - We need complex technology to cope with [complexity](complex-technology.md).
