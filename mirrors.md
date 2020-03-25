@@ -12,7 +12,7 @@ The others. They act also as avatars for you. Constantly and endlessly performin
 
 A conversation? Feedback. The better somebody is listening to you, the better is [the bouncing back](https://youtu.be/f0Fi32LbXHA?t=1303) of your emotions. 
 
-A yawn. [An unexpected smile](https://www.youtube.com/watch?v=5Th0aOoX4EM&t=205s). A close look to another face and you will see your shadow moving inside the black of the eyes.
+A yawn. [An unexpected smile](https://www.youtube.com/watch?v=5Th0aOoX4EM&t=205s). A close look to another face and you will see your shadow moving inside the black of the eyes <sup>[1]</sup>.
 
 > "You don’t need me. What you really need is a mirror. Because any stranger is for you simply a mirror in which to reflect yourself." — Kōbō Abe, The Face of Another
 
@@ -29,3 +29,7 @@ That movie last night. The podcast on the train. Those books you will never star
 You can try. Turn this screen off for a sec, maybe you can see yourself reflected in there too.
 
 [What do you see?](https://www.youtube.com/watch?v=HRrFvapV4ms)
+
+<br><br><br>
+
+[1] "In a surprising number of unrelated languages, the etymological meaning of the term for pupil is "little person". This is true, for example, of the word pupil itself: this comes into English from Latin pūpilla, which means "doll, girl", and is a diminutive form of pupa, "girl". (The double meaning in Latin is preserved in English, where pupil means both "schoolchild" and "dark central portion of the eye within the iris".) This may be because the reflection of one's image in the pupil is a minuscule version of one's self." https://en.wikipedia.org/wiki/Pupil
