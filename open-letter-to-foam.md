@@ -6,6 +6,8 @@
 
 ***I would love to hear your opinion.***
 
+<br>
+
 ## Our relationship with the digital medium is mediated by two major interfaces
 
 We relate to digital information in two contexts, local and online, and for each of these contexts we have an interface that mediates between us and the information.
@@ -22,6 +24,8 @@ When we are online, browsing the web, we can jump from page to page using links,
 
 We can see some tools for thought challenging these designs by structuring information in graphs and implementing bidirectional links, but their scope is limited to the creation and management of notes. 
 
+<br>
+
 ## Foam proposes a change on the rules of the game
 
 Foam's strategy: repurpose VSCode, a tool designed for programming, transformed into a tool for taking notes.
@@ -34,11 +38,15 @@ My set of recipes not only allows me to manage my notes, but I also use it to in
 
 I do not imagine **Foam** as a substitute for the file system or the browser, but **as a layer closer to me that can operate under my terms and conditions**.
 
+<br>
+
 ## A new way of relating to digital information
 
 IMO, Foam is playing with a combination of pieces (principles, values, intentions, formats, uses ...) that can take it far beyond a simple framework or note-taking application. Yes, it does the job of a tool for thought, but I think that the "second brain" metaphor can be confusing and constraining.
 
 **It is offering us the possibility of making decisions** about how to relate to information in a digital context. Decisions that until now were very far from the end-user. Decisions **that allow us to rethink how we want to relate to others or to ourselves** since this digital context and the information it contains is nothing more than a reflection of ourselves and the society in which we live.
+
+<br>
 
 ## A new way of conceiving
 
@@ -48,12 +56,18 @@ The possibility of managing information differently influences the configuration
 
 I think that little by little we are beginning to understand what it means and what it implies to be a digital society, and it seems to me that Foam, without being fully aware of it, wants to accompany us on that journey.
 
+<br>
+
 ## But what are these new ways?
 
 I know that Foam does not exist in isolation, that it is part of an ecosystem, that there are similar projects and initiatives and many other people working in the same direction. I wonder exactly what that direction is, what all these proposals are looking for, how they are doing it, and why.
 
 I don't know, maybe with a little coordination, we can identify and rethink those self-destructive dynamics to transform them into healthier and more beneficial synergies for both the individual and the collective.
 
-🤷‍♂️
+<br>
+<div align="center">
 
+# 🤷‍♂️
 What do you think?
+
+</div>
