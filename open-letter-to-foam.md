@@ -65,9 +65,8 @@ I know that Foam does not exist in isolation, that it is part of an ecosystem, t
 I don't know, maybe with a little coordination, we can identify and rethink those self-destructive dynamics to transform them into healthier and more beneficial synergies for both the individual and the collective.
 
 <br>
-<div align="center">
 
+<div align="center">
 # 🤷‍♂️
 What do you think?
-
 </div>
