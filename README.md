@@ -11,9 +11,6 @@ This is a personal exercise to find clarity, a conversation with myself <sup>[1]
 - Influence the course of your life by [designing your own behavior](design-life.md).
 - Everything outside of you acts as a [mirror](mirrors.md) from which to observe yourself.
 
-→ Thinking by doing:
-- [Pay-Per-Follow](pay-per-follow.md)
-
 <br><br><br>
 
 > “The unexamined life is not worth living.” — Socrates
