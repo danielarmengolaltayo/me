@@ -34,7 +34,7 @@ Building on top of an existing system has its advantages, but we must take into 
 
 Foam currently follows a formula based on “recipes”. Depending on what you want to eat, you prepare one or the other, and if you do not find what you are looking for, you can create your own.
 
-My set of recipes not only allows me to manage my notes, but I also use it to interact with the rest of the files stored on my computer, replacing, to a certain extent, my experience with the OS file system. My idea is to add more recipes in order to interact, for example, with the browser, to exchange messages with other people, or to work on the same notes together.
+My set of recipes not only allows me to manage my notes, but I also use it to interact with the rest of the files stored on my computer, replacing, to a certain extent, my experience with the OS file system. My idea is to add more recipes in order to interact, for example, with the browser, to exchange messages with other people, or to cooperate with them on the same notes in multiplayer mode.
 
 I do not imagine **Foam** as a substitute for the file system or the browser, but **as a layer closer to me that can operate under my terms and conditions**.
 
